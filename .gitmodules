@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Sysrecon"]
+	path = Sysrecon
+	url = https://github.com/oyshilin/sysrecon
+	shallow = true
+	registered = true
